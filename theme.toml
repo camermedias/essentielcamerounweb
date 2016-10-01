@@ -1,6 +1,6 @@
-author = "Keichi Takahashi"
-description = "Simple and clean blog theme for hugo"
+author = "CamerMedias"
+description = "essentielcameroun.com"
 license = "MIT"
-name = "vienna"
+name = "L'essentiel du Cameroun"
 source_repo = "git@github.com:keichi/vienna.git"
-tags = ["blog", "tags", "bootstrap"]
+tags = ["presse", "information", "cmeroun"]
